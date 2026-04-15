@@ -25,13 +25,13 @@ nav a:hover {
 section {
     padding: 20px;
     margin: 15px;
-    background-color: lightsteelblue;
+    background-color: #b0c4de;
     border-radius: 10px;
 }
 
 .hero {
     text-align: center;
-    background-color: lightsteelblue;
+    background-color: #b0c4de;
     color: black;
 }
 
