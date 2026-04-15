@@ -25,13 +25,13 @@ nav a:hover {
 section {
     padding: 20px;
     margin: 15px;
-    background-color: mintcream;
+    background-color: lightsteelblue;
     border-radius: 10px;
 }
 
 .hero {
     text-align: center;
-    background-color: mintcream;
+    background-color: lightsteelblue;
     color: black;
 }
 
@@ -42,9 +42,9 @@ section {
 
 .gallery img {
     display: block;
-    width: 280px;
+    width: 285px;
     margin: 15px auto;
-    border-radius: 10px;
+    border-radius: 8px;
 }
 
 footer {
